@@ -57,10 +57,8 @@ The audit assessed the following areas:
 
 | **Activity**               | **Tools/Approach**         | **Purpose**                                 |
 |----------------------------|----------------------------|---------------------------------------------|
-| **Network Analysis**       | Wireshark, Firewall Logs     | Detect insecure protocols and anomalies |
-
+| **Network Analysis**       | Wireshark, Firewall Logs   | Detect insecure protocols and anomalies |
 | **Endpoint Review**        | Antivirus logs, patch status   | Assess device protection levels       |
-
 | **Access Control Review**  | Active Directory Audit     | Identify overprivileged accounts            |
 | **Web App Test**           | Manual inspection          | Find SQL injection, session issues          |
 | **Log Review**             | Internal SIEM              | Check for visibility and alerting gaps      |
@@ -94,7 +92,7 @@ The audit assessed the following areas:
 | **Network Security**  | Update firewall rules, disable legacy protocols (FTP/Telnet)                       |
 | **Endpoint Security** | Enforce automated patching, ensure full antivirus coverage                         |
 | **Access Control**    | Revoke unnecessary admin rights, remove inactive accounts                          |
-| **Web Application**   | Fix SQLi issue, enforce HTTPS-only cookies                                         |
+| **Web Application**   | Fix SQL issue, enforce HTTPS-only cookies                                         |
 | **Log Management**    | Extend retention to **90+ days**, improve SIEM rule tuning                         |
 | **Incident Response** | Create response playbooks, conduct **quarterly drills**                            |
 | **Compliance**        | Implement **encryption, RBAC, and formal policies** for NDPR, CBN, GDPR, PCI DSS  |
@@ -133,9 +131,6 @@ The audit assessed the following areas:
 
 
 ## Conclusion  
-Cran Ecommerce needs **urgent improvements** to its security and compliance programs. Immediate focus should be placed on:  
-- Securing the e-commerce platform  
-- Protecting personal and payment data  
-- Aligning with **local and global regulations**  
+Cran Ecommerce needs **urgent improvements** to its security and compliance programs. Immediate focus should be placed on Securing the e-commerce platform, Protecting personal and payment data  and aligning with **local and global regulations**  
 
 This audit highlights my ability to assess real-world security environments, identify critical risks, and provide **practical solutions** — combining both **SOC operations** and **GRC insights**.  
