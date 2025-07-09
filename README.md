@@ -1,14 +1,14 @@
-# 🔐 Zazz Ecommerce – Security Audit Report  
-**Prepared by:** Chinelo Ebenezar, SOC 1 Analyst  
-**Date:** April 5, 2025  
+# Zazz Ecommerce – Security Audit Report  
+**Prepared by:** Chinelo Ebenezar, SOC Analyst  
+**Date:** July 9, 2025  
 
 ---
 
-## 📌 Overview  
+## Overview  
 This audit evaluates the cybersecurity posture of **Zazz Ecommerce**, a fictional Nigerian-based online retail company. The audit includes an analysis of network traffic, endpoint protection, access controls, web application vulnerabilities, SIEM effectiveness, incident response readiness, and regulatory compliance. 
 The assessment also includes technical and compliance reviews using the **NIST Cybersecurity Framework (CSF)**, along with regulatory standards such as:  
 - **NDPR** (Nigeria Data Protection Regulation)  
-- **CBN Cybersecurity Guidelines (CBN Cybersecurity Framework and Guidelines for Payment Service Providers)**  
+- **CBN Cybersecurity Framework and Guidelines for Payment Service Providers**  
 - **GDPR** (General Data Protection Regulation)  
 - **PCI DSS** (Payment Card Industry Data Security Standard)  
 
@@ -18,7 +18,7 @@ This report demonstrates my ability to perform security audits, identify risks, 
 
 ---
 
-## 🧾 Executive Summary  
+## Executive Summary  
 Zazz Ecommerce has basic security controls in place, including firewalls and antivirus software, but lacks key controls needed to defend against modern threats. Vulnerabilities were found in network configuration, web application security, user access policies, and compliance with local regulations.
 Immediate actions are recommended to secure customer data, implement multi-factor authentication, strengthen incident response capabilities, and ensure full compliance with local and international regulations.  
 
@@ -32,8 +32,8 @@ Immediate actions are recommended to secure customer data, implement multi-facto
 
 ---
 
-## � Scope  
-The audit reviewed the following areas:  
+## Scope  
+The audit assessed the following areas:  
 - **Network infrastructure** (firewalls, IDS/IPS)  
 - **Endpoint protection** and patch management  
 - **Web application security**  
@@ -43,6 +43,20 @@ The audit reviewed the following areas:
 - **Compliance** with NDPR, CBN, GDPR, and PCI DSS  
 
 ---
+
+
+## Methodology  
+
+| **Activity**               | **Tools/Approach**         | **Purpose**                                  |
+|----------------------------|----------------------------|---------------------------------------------|
+| **Network Analysis**       | Wireshark, Firewall Logs   | Detect insecure protocols and anomalies      |
+| **Endpoint Review**        | Antivirus logs, patch status | Assess device protection levels             |
+| **Access Control Review**  | Active Directory Audit     | Identify overprivileged accounts            |
+| **Web App Test**           | Manual inspection          | Find SQL injection, session issues          |
+| **Log Review**             | Internal SIEM              | Check for visibility and alerting gaps      |
+| **Incident Review**        | Past reports               | Evaluate response maturity                  |
+| **Compliance Review**      | NDPR, CBN Guidelines       | Assess regulatory alignment                 |
+
 
 ## ⚠️ Key Findings  
 
@@ -58,7 +72,7 @@ The audit reviewed the following areas:
 
 ---
 
-## 🛡️ Recommendations  
+## Recommendations  
 
 | **Category**          | **Recommendations**                                                                 |
 |-----------------------|------------------------------------------------------------------------------------|
