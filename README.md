@@ -1,5 +1,5 @@
 # Zazz Ecommerce – Security Audit Report  
-**Prepared by:** Chinelo Ebenezar, SOC Analyst  
+**Auditor:** Chinelo Ebenezar, SOC Analyst  
 **Date:** July 9, 2025  
 
 ---
@@ -58,7 +58,8 @@ The audit assessed the following areas:
 | **Compliance Review**      | NDPR, CBN Guidelines       | Assess regulatory alignment                 |
 
 
-## ⚠️ Key Findings  
+
+## Key Findings  
 
 | **Category**          | **Findings**                                      | **Risk Level** |
 |-----------------------|---------------------------------------------------|---------------|
@@ -86,7 +87,7 @@ The audit assessed the following areas:
 
 ---
 
-## 📊 Risk Ratings Summary  
+## Risk Ratings Summary  
 
 | **Category**          | **Risk Level** | **Justification**                                                                 |
 |-----------------------|---------------|----------------------------------------------------------------------------------|
@@ -100,7 +101,7 @@ The audit assessed the following areas:
 
 ---
 
-## 📜 Compliance Status  
+## Compliance Status  
 
 | **Regulation**       | **Status**          | **Notes**                                                                       |
 |-----------------------|---------------------|---------------------------------------------------------------------------------|
@@ -111,17 +112,10 @@ The audit assessed the following areas:
 
 ---
 
-## 📝 Conclusion  
+## Conclusion  
 Zazz Ecommerce needs **urgent improvements** to its security and compliance programs. Immediate focus should be placed on:  
 - Securing the e-commerce platform  
 - Protecting personal and payment data  
 - Aligning with **local and global regulations**  
 
 This audit highlights my ability to assess real-world security environments, identify critical risks, and provide **practical solutions** — combining both **SOC operations** and **GRC insights**.  
-
----
-
-## 👤 About the Analyst  
-**Chinelo Ebenezar**  
-SOC Analyst 
-📧 `ebenezarchinelo@gmail.com`
