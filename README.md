@@ -17,38 +17,38 @@ This audit evaluates the cybersecurity posture of **Cran Ecommerce**, a fictiona
 The audit was conducted using the NIST Cybersecurity Framework (CSF) and assessed compliance with:  
 - **NDPR** - Nigeria Data Protection Regulation 
 - **CBN Cybersecurity Framework and Guidelines for Payment Service Providers**  
-- **GDPR** (General Data Protection Regulation)  
-- **PCI DSS** (Payment Card Industry Data Security Standard)  
+- **GDPR** - General Data Protection Regulation  
+- **PCI DSS** - Payment Card Industry Data Security Standard  
 
-**Tools Used:** Splunk, firewall logs, endpoint monitoring systems.  
+**Tools Used** includes Splunk, firewall logs and endpoint monitoring systems.  
 
 This report demonstrates my ability to perform security audits, identify risks, and recommend improvements aligned with both **technical best practices** and **regulatory requirements**.  
 
 ---
 
 ## Executive Summary  
-Cran Ecommerce has basic security controls in place, including firewalls and antivirus software, but lacks key controls needed to defend against modern threats. Vulnerabilities were found in network configuration, web application security, user access policies, and compliance with local regulations.
-Immediate actions are recommended to secure customer data, implement multi-factor authentication, strengthen incident response capabilities, and ensure full compliance with local and international regulations.  
+Cran Ecommerce has basic security controls in place, including firewalls and antivirus software, but lacks key protections needed to defend against modern threats. Vulnerabilities were identified in network configuration, web application security, user access control policies, and regulatory compliance.
 
-**Key Issues Include:**  
-- Weak access controls  
-- Insecure web application features  
-- Missing encryption for customer/payment data  
-- Non-compliance with **NDPR, CBN, GDPR, and PCI DSS**  
+Recommended actions include:
+- Securing customer and payment data
+- Implementing multi-factor authentication
+- Strengthening incident response procedures
+- Ensuring compliance with NDPR, CBN, GDPR, and PCI DSS
+These steps will significantly improve the platform’s security posture and reduce legal and operational risk.
 
-**Immediate Actions Recommended** to secure customer information, strengthen incident response readiness, and meet compliance obligations.  
 
 ---
 
+
 ## Scope  
 The audit assessed the following areas:  
-- **Network infrastructure** (firewalls, IDS/IPS)  
-- **Endpoint protection** and patch management  
-- **Web application security**  
-- **User access and privilege management**  
-- **Log retention and SIEM capabilities**  
-- **Incident response procedures**  
-- **Compliance** with NDPR, CBN, GDPR, and PCI DSS  
+- **Network infrastructure** : firewalls, IDS/IPS  
+- **Endpoint protection** : patch management, antivrius coverage
+- **Web application security**: SQL injection, session handling
+- **Access Control** : Privilege assignment, user account management
+- **Log Management** : Retention period, alerting accuracy
+- **Incident response** : Playbooks, testing frequency  
+- **Compliance** : Alignment with NDPR, CBN, GDPR, and PCI DSS  
 
 ---
 
