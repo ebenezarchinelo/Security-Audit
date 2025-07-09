@@ -58,6 +58,8 @@ The audit assessed the following areas:
 | **Compliance Review**      | NDPR, CBN Guidelines       | Assess regulatory alignment                 |
 
 
+---
+
 
 ## Key Findings  
 
@@ -71,7 +73,9 @@ The audit assessed the following areas:
 | **Incident Response** | No documented playbooks or drills                 | Medium        |
 | **Compliance**        | Non-compliant with NDPR, CBN, GDPR, PCI DSS       | High          |
 
+
 ---
+
 
 ## Recommendations  
 
@@ -85,7 +89,9 @@ The audit assessed the following areas:
 | **Incident Response** | Create response playbooks, conduct **quarterly drills**                            |
 | **Compliance**        | Implement **encryption, RBAC, and formal policies** for NDPR, CBN, GDPR, PCI DSS  |
 
+
 ---
+
 
 ## Risk Ratings Summary  
 
@@ -99,7 +105,9 @@ The audit assessed the following areas:
 | **Incident Response** | ⚠️ Medium     | Delayed response increases breach impact                                        |
 | **Compliance**        | ⚠️ High       | Legal fines possible under **NDPR, CBN, GDPR, and PCI DSS**                     |
 
+
 ---
+
 
 ## Compliance Status  
 
@@ -110,7 +118,9 @@ The audit assessed the following areas:
 | **GDPR**             | ❌ Non-Compliant     | Processes EU user data without proper consent or encryption                     |
 | **PCI DSS**          | ❌ Non-Compliant     | Handles card data without encryption or access restrictions                     |
 
+
 ---
+
 
 ## Conclusion  
 Zazz Ecommerce needs **urgent improvements** to its security and compliance programs. Immediate focus should be placed on:  
