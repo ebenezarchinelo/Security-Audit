@@ -1,11 +1,11 @@
-# Zazz Ecommerce – Security Audit Report  
+# Cran Ecommerce – Security Audit Report  
 **Auditor:** Chinelo Ebenezar, SOC Analyst  
 **Date:** July 9, 2025  
 
 ---
 
 ## Overview  
-This audit evaluates the cybersecurity posture of **Zazz Ecommerce**, a fictional Nigerian-based online retail company. The audit includes an analysis of network traffic, endpoint protection, access controls, web application vulnerabilities, SIEM effectiveness, incident response readiness, and regulatory compliance. 
+This audit evaluates the cybersecurity posture of **Cran Ecommerce**, a fictional Nigerian-based online retail company. The audit includes an analysis of network traffic, endpoint protection, access controls, web application vulnerabilities, SIEM effectiveness, incident response readiness, and regulatory compliance. 
 The assessment also includes technical and compliance reviews using the **NIST Cybersecurity Framework (CSF)**, along with regulatory standards such as:  
 - **NDPR** (Nigeria Data Protection Regulation)  
 - **CBN Cybersecurity Framework and Guidelines for Payment Service Providers**  
@@ -19,7 +19,7 @@ This report demonstrates my ability to perform security audits, identify risks, 
 ---
 
 ## Executive Summary  
-Zazz Ecommerce has basic security controls in place, including firewalls and antivirus software, but lacks key controls needed to defend against modern threats. Vulnerabilities were found in network configuration, web application security, user access policies, and compliance with local regulations.
+Cran Ecommerce has basic security controls in place, including firewalls and antivirus software, but lacks key controls needed to defend against modern threats. Vulnerabilities were found in network configuration, web application security, user access policies, and compliance with local regulations.
 Immediate actions are recommended to secure customer data, implement multi-factor authentication, strengthen incident response capabilities, and ensure full compliance with local and international regulations.  
 
 **Key Issues Include:**  
@@ -123,7 +123,7 @@ The audit assessed the following areas:
 
 
 ## Conclusion  
-Zazz Ecommerce needs **urgent improvements** to its security and compliance programs. Immediate focus should be placed on:  
+Cran Ecommerce needs **urgent improvements** to its security and compliance programs. Immediate focus should be placed on:  
 - Securing the e-commerce platform  
 - Protecting personal and payment data  
 - Aligning with **local and global regulations**  
