@@ -5,9 +5,17 @@
 ---
 
 ## Overview  
-This audit evaluates the cybersecurity posture of **Cran Ecommerce**, a fictional Nigerian-based online retail company. The audit includes an analysis of network traffic, endpoint protection, access controls, web application vulnerabilities, SIEM effectiveness, incident response readiness, and regulatory compliance. 
-The assessment also includes technical and compliance reviews using the **NIST Cybersecurity Framework (CSF)**, along with regulatory standards such as:  
-- **NDPR** (Nigeria Data Protection Regulation)  
+This audit evaluates the cybersecurity posture of **Cran Ecommerce**, a fictional Nigerian-based online retail company. The assesment includes an analysis of 
+- Network traffic
+- Endpoint protection
+- Access controls
+- Web application vulnerabilities
+- SIEM effectiveness
+- Incident response readiness
+- Regulatory compliance.
+  
+The audit was conducted using the NIST Cybersecurity Framework (CSF) and assessed compliance with:  
+- **NDPR** - Nigeria Data Protection Regulation 
 - **CBN Cybersecurity Framework and Guidelines for Payment Service Providers**  
 - **GDPR** (General Data Protection Regulation)  
 - **PCI DSS** (Payment Card Industry Data Security Standard)  
