@@ -5,9 +5,10 @@
 ---
 
 ## 📌 Overview  
-This audit evaluates the cybersecurity posture of **Zazz Ecommerce**, a fictional Nigerian-based online retail company. The assessment includes technical and compliance reviews using the **NIST Cybersecurity Framework (CSF)**, along with regulatory standards such as:  
+This audit evaluates the cybersecurity posture of **Zazz Ecommerce**, a fictional Nigerian-based online retail company. The audit includes an analysis of network traffic, endpoint protection, access controls, web application vulnerabilities, SIEM effectiveness, incident response readiness, and regulatory compliance. 
+The assessment also includes technical and compliance reviews using the **NIST Cybersecurity Framework (CSF)**, along with regulatory standards such as:  
 - **NDPR** (Nigeria Data Protection Regulation)  
-- **CBN Cybersecurity Guidelines**  
+- **CBN Cybersecurity Guidelines (CBN Cybersecurity Framework and Guidelines for Payment Service Providers)**  
 - **GDPR** (General Data Protection Regulation)  
 - **PCI DSS** (Payment Card Industry Data Security Standard)  
 
@@ -18,7 +19,8 @@ This report demonstrates my ability to perform security audits, identify risks, 
 ---
 
 ## 🧾 Executive Summary  
-Zazz Ecommerce has basic security controls in place but lacks essential protections for handling sensitive data and complying with local and international regulations.  
+Zazz Ecommerce has basic security controls in place, including firewalls and antivirus software, but lacks key controls needed to defend against modern threats. Vulnerabilities were found in network configuration, web application security, user access policies, and compliance with local regulations.
+Immediate actions are recommended to secure customer data, implement multi-factor authentication, strengthen incident response capabilities, and ensure full compliance with local and international regulations.  
 
 **Key Issues Include:**  
 - Weak access controls  
@@ -107,6 +109,5 @@ This audit highlights my ability to assess real-world security environments, ide
 
 ## 👤 About the Analyst  
 **Chinelo Ebenezar**  
-SOC 1 Analyst | 📍 Nigeria  
-📧 `chinelo.ebenezar@example.com` | 📱 `+234 801 234 5678`  
-🌐 [GitHub Profile](https://github.com/yourusername)  
+SOC Analyst 
+📧 `ebenezarchinelo@gmail.com`
