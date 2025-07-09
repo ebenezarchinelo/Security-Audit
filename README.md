@@ -55,11 +55,11 @@ The audit assessed the following areas:
 
 ## Methodology  
 
-| **Activity**               | **Tools/Approach**         | **Purpose**                                  |
+| **Activity**               | **Tools/Approach**         | **Purpose**                                 |
 |----------------------------|----------------------------|---------------------------------------------|
-| **Network Analysis**         | Wireshark, Firewall Logs     | Detect insecure protocols and anomalies        |
+| **Network Analysis**       | Wireshark, Firewall Logs     | Detect insecure protocols and anomalies |
 
-| **Endpoint Review**          | Antivirus logs, patch status   | Assess device protection levels          |
+| **Endpoint Review**        | Antivirus logs, patch status   | Assess device protection levels       |
 
 | **Access Control Review**  | Active Directory Audit     | Identify overprivileged accounts            |
 | **Web App Test**           | Manual inspection          | Find SQL injection, session issues          |
